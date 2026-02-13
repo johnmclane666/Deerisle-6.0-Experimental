@@ -18524,7 +18524,6 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="3">
-							<category name="lootdispatch" />
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -18548,7 +18547,6 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="3">
-							<category name="lootdispatch" />
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -18572,7 +18570,6 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="3">
-							<category name="lootdispatch" />
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -18595,7 +18592,6 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />	
 						<container name="loot" lootmax="3">
-							<category name="lootdispatch" />
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
