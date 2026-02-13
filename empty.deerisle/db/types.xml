@@ -6165,10 +6165,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanHood">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6178,10 +6178,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanHood_Black">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6217,10 +6217,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanHood_Wine">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6230,10 +6230,10 @@
         <usage name="Industrial" />
     </type>
     <type name="CivSedanHood_WineRust">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
